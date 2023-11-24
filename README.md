@@ -1,2 +1,14 @@
-# SpringBoot-CheatSheet
-resumen de springboot
+# SpringBoot resumen
+
+## distribucion
+
+## repository database
+
+## controller
+
+### get
+
+### post
+
+## services, modelo de negoico
+
